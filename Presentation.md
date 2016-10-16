@@ -15,7 +15,9 @@ Even if you just know you *really* like pink you should be ready to start explor
 
 ATT puts you in the cockpit of the machine that lets you move freely through the dimensions of art and history, ranging from time and space to cuteness and flair. You will be pulled into the flow of serendipitous discovery while being served with the gems that you will claim to make your own.
 
-## Where are you? Position yourself in art and history: time, space, your state of mind/intent, label etc.
+## Position – Where are you? 
+Position yourself in art and history: time, space, your state of mind/intent, label etc.
+
 This is a world where any artefacts of art or history will eventually meet at a single location and there are infinite paths between them. 
 
 * You can drop your pin in a different location (by starting out from a collection)
