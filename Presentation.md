@@ -43,10 +43,12 @@ You could be starting from an exhibition or your own collection or Google search
 * Result: Best summary of all the objects in your proximity
 
 ## The machine
-* Illustrate direction / relationship (take a step in a direction of your choice)
-* Show the variation / summarize the surrounding objects (look around)
-* Describe paths to discovery that are impossible to/difficult to express (sense of direction like footprints on a path)
-* Highlight objects that are of special interest to you (catching your eye)
+The general idea is to: 
+
+1. Simplify results that are too large or too complex. 
+2. Highlight objects that are of special interest to you
+3. Use samples from the collections to you a way to express the direction that you want to explore without prior knowledge.
+4. Use your state of mind, starting point, path and current position to refine the next step.
 
 Implementing the interface
 
