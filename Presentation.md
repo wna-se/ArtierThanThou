@@ -40,4 +40,47 @@ You could be starting from an exhibition or your own collection or Google search
 * Data: Paths between objects in the collection
 * Result: Best summary of all the objects in your proximity
 
+## The machine
+* Illustrate direction / relationship (take a step in a direction of your choice)
+* Show the variation / summarize the surrounding objects (look around)
+* Describe paths to discovery that are impossible to/difficult to express (sense of direction like footprints on a path)
+* Highlight objects that are of special interest to you (catching your eye)
+
+Implementing the interface
+
+* Visually pleasing
+* Familiarity
+* Tangible
+
+## The bigger vision
+
+Walking along a curated path
+
+How do you create a sense of where you are?
+
+* How do you navigate / manage the flow. Sense of direction. Where you came from and where you are going.
+
+How to summarize the available options from your current viewpoint?
+
+* Showing the results as images, tag clouds, sounds – different methods to summarize
+* Embedded question on what media type to explore etc.
+
+How to highlight?
+
+* Ranking. 
+
+How to choose the direction? 
+
+* How do you get feedback from the user? 
+* Embed questions in the grid / use a second image to pinpoint  the direction / questionnaire or interests / learning from navigational patterns / learning from other users
+
+How do you get users to contribute with preference?
+
+* Spotify uses it to improve radio, sharing playlists, tracks etc.
+
+Challenges
+
+* How well the object represent the user’s idea of the physical entity
+
+
 # Example
