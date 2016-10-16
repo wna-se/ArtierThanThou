@@ -27,6 +27,8 @@ Three parts:
 * Smart view
 
 ## Position – Where are you really starting from? 
+![Position](https://github.com/wna-se/ArtierThanThou/raw/master/Presentation/Solution-01.png)
+
 * You can drop your pin in a different location (by starting out from a collection)
 * You will explore your surroundings from the most relevant pieces
 * You set the rules for rankings as you go (in a friendly dialogue)
@@ -38,6 +40,7 @@ Three parts:
 * Tags
 
 ## State of mind – Who are you and what are you up to right now? 
+![State of mind](https://github.com/wna-se/ArtierThanThou/raw/master/Presentation/Solution-02.png)
 * You can configure rankings and interestes seemlessly by exploring 
 * You can influence what positional data are most relevant to you
 
@@ -46,6 +49,7 @@ Three parts:
 * Intention
 	
 ## Smart view and direction – In which direction would you like to continue? 
+![Smart view](https://github.com/wna-se/ArtierThanThou/raw/master/Presentation/Solution-03.png)
 * You get to see the best possible summary of all the objects in your current vicinity/view
 * You can refine your view by selecting the object that is most interesting and discover more items in that direction
 * You can seemlessly direct your path through the collection along any dimension
