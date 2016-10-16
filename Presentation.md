@@ -1,7 +1,7 @@
-# Titlesida
+# Introduction
 This is a concept of a method of exploring collections. It is aimed at the more curious than knowledgeable, looking for things that they want but maybe don't expect. 20–30:s Internet savvy.
 
-# Probelm
+# Problem
 Our crowd find themselves paralyzed by an empty search field, blinded by endless pages of seemingly identical results or frustrated about the expressionless query language and abrupt movements between scenery.
 
 * I don't know what I'm looking for!
@@ -40,5 +40,4 @@ You could be starting from an exhibition or your own collection or Google search
 * Data: Paths between objects in the collection
 * Result: Best summary of all the objects in your proximity
 
-# Exempel
-
+# Example
