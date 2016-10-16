@@ -13,7 +13,11 @@ Empathetic discovery and search, where you are at the front and center.
 
 Even if you just know you *really* like pink you should be ready to start exploring!
 
-ATT puts you in the cockpit of the machine that lets you move freely through the dimensions of art and history, ranging from time and space to cuteness and flair. You will be pulled into the flow of serendipitous discovery while being served with the gems that you will claim to make your own.
+ATT puts you in the cockpit of the machine 
+
+* move freely through the dimensions of art and history, ranging from time and space to cuteness and flair
+* be pulled into the flow of serendipitous discovery 
+* served with the gems that you will claim to make your own.
 
 ## Position – Where are you starting from? 
 Position yourself in art and history: time, space, your state of mind/intent, label etc.
