@@ -13,47 +13,50 @@ Empathetic discovery and search, where you are at the front and center.
 
 Even if you just know you *really* like pink you should be ready to start exploring!
 
-ATT puts you in the cockpit of the machine 
+ATT puts you in the cockpit:
 
-* move freely through the dimensions of art and history, ranging from time and space to cuteness and flair
-* be pulled into the flow of serendipitous discovery 
-* served with the gems that you will claim to make your own.
+* To move freely through the dimensions of art and history, ranging from time and space to cuteness and flair
+* To be pulled into the flow of serendipitous discovery 
+* To be served with the gems that you will claim to make your own.
 
-It is so obvious, really, and some really smart person will absolutely do this in the future. Three parts:
+Three parts:
 
+* Collection
 * Position
 * State of mind
 * Smart view
 
-## Position – Where are you starting from? 
-Position yourself in art and history: time, space, your state of mind/intent, label etc.
-
-This is a world where any artefacts of art or history will eventually meet at a single location and there are infinite paths between them. 
-
+## Position – Where are you really starting from? 
 * You can drop your pin in a different location (by starting out from a collection)
 * You will explore your surroundings from the most relevant pieces
 * You set the rules for rankings as you go (in a friendly dialogue)
 
-## State of mind – Who are you and what are you up to right now? 
-You could be starting from an exhibition or your own collection or Google search? Pulling facts to pinpoint a position 
+### Position data
+* Sequence of previous positions
+* Time
+* Space
+* Tags
 
-* Adapting to direct your attention to what you would find most interesting 
-* Data: Helpful questions
+## State of mind – Who are you and what are you up to right now? 
+* You can configure rankings and interestes seemlessly by exploring 
+* You can influence what positional data are most relevant to you
+
+### State of mind data
+* Preference
+* Intention
 	
 ## Smart view and direction – In which direction would you like to continue? 
+* You get to see the best possible summary of all the objects in your current vicinity/view
+* You can refine your view by selecting the object that is most interesting and discover more items in that direction
+* You can seemlessly direct your path through the collection along any dimension
 
-* Reduce the number of choices by grouping objects and representing them by the most intresting/useful in each group
-* Procees in the direction that looks most interesting and discover more items in that direction
-* This means that you can walk across space and time but also that you are free to direct your path along any dimension be it Wikipedia categories or labels from Google Vision.
-* Data: Your position
-* Data: Your selection
-* Data: Your path
-* Data: Your state of mind
-* Data: Paths between objects in the collection
-* Result: Best summary of all the objects in your proximity
+### Smart view data
+* Position
+* Selection
+* State of mind
+* Collection
 
-## The machine
-The general idea is to: 
+## The general idea is to: 
 
 1. Simplify results that are too large or too complex. 
 2. Highlight objects that are of special interest to you
@@ -73,11 +76,13 @@ Walking along a curated path
 How do you create a sense of where you are?
 
 * How do you navigate / manage the flow. Sense of direction. Where you came from and where you are going.
+* You could be starting from an exhibition or your own collection or Google search? Pulling facts to pinpoint a position 
 
 How to summarize the available options from your current viewpoint?
 
 * Showing the results as images, tag clouds, sounds – different methods to summarize
 * Embedded question on what media type to explore etc.
+* Wikipedia categories or labels from Google Vision.
 
 How to highlight?
 
