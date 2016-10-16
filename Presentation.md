@@ -15,7 +15,7 @@ Even if you just know you *really* like pink you should be ready to start explor
 
 ATT puts you in the cockpit of the machine that lets you move freely through the dimensions of art and history, ranging from time and space to cuteness and flair. You will be pulled into the flow of serendipitous discovery while being served with the gems that you will claim to make your own.
 
-## Where are you? Position yourself in art and history: time/space, your state of mind/intent
+## Where are you? Position yourself in art and history: time, space, your state of mind/intent, label etc.
 This is a world where any artefacts of art or history will eventually meet at a single location and there are infinite paths between them. 
 
 * You can drop your pin in a different location (by starting out from a collection)
@@ -26,16 +26,19 @@ This is a world where any artefacts of art or history will eventually meet at a 
 You could be starting from an exhibition or your own collection or Google search? Pulling facts to pinpoint a position 
 
 * Adapting to direct your attention to what you would find most interesting 
-* Helpful questions
+* Data: Helpful questions
 	
 ## In what direction do you want to go? Moving by clicking a curious example
 
-* Summary, go in the direction that looks interesting
+* Reduce the number of choices by grouping objects and representing them by the most intresting/useful in each group
+* Procees in the direction that looks most interesting and discover more items in that direction
 * This means that you can walk across space and time but also that you are free to direct your path along any dimension be it Wikipedia categories or labels from Google Vision.
-* The direction
-* Your path
-* Your task
-
+* Data: Your position
+* Data: Your selection
+* Data: Your path
+* Data: Your state of mind
+* Data: Paths between objects in the collection
+* Result: Best summary of all the objects in your proximity
 
 # Exempel
 
