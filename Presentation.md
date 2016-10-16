@@ -19,6 +19,12 @@ ATT puts you in the cockpit of the machine
 * be pulled into the flow of serendipitous discovery 
 * served with the gems that you will claim to make your own.
 
+It is so obvious, really, and some really smart person will absolutely do this in the future. Three parts:
+
+* Position
+* State of mind
+* Smart view
+
 ## Position – Where are you starting from? 
 Position yourself in art and history: time, space, your state of mind/intent, label etc.
 
@@ -34,7 +40,7 @@ You could be starting from an exhibition or your own collection or Google search
 * Adapting to direct your attention to what you would find most interesting 
 * Data: Helpful questions
 	
-## Summarized view and direction – In which direction would you like to continue? 
+## Smart view and direction – In which direction would you like to continue? 
 
 * Reduce the number of choices by grouping objects and representing them by the most intresting/useful in each group
 * Procees in the direction that looks most interesting and discover more items in that direction
