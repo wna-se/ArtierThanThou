@@ -1,6 +1,8 @@
 # Introduction
 This is a concept of a method of exploring collections. It is aimed at the more curious than knowledgeable, looking for things that they want but maybe don't expect. 20–30:s Internet savvy.
 
+![Position](https://github.com/wna-se/ArtierThanThou/raw/master/Presentation/presentation/Bild1.jpg)
+
 # Problem
 Our crowd find themselves paralyzed by an empty search field, blinded by endless pages of seemingly identical results or frustrated about the expressionless query language and abrupt movements between scenery.
 
@@ -43,7 +45,7 @@ Three parts:
 * You can configure rankings and interestes seemlessly by exploring 
 * You can influence what positional data are most relevant to you
 
-![State of mind](https://github.com/wna-se/ArtierThanThou/raw/master/Presentation/Solution-02.png)
+![State of mind](https://github.com/wna-se/ArtierThanThou/raw/master/Presentation/Solution-03.png)
 
 ### State of mind data
 * Preference
@@ -55,7 +57,7 @@ Three parts:
 * You can seemlessly direct your path through the collection along any dimension
 
 
-![Smart view](https://github.com/wna-se/ArtierThanThou/raw/master/Presentation/Solution-03.png)
+![Smart view](https://github.com/wna-se/ArtierThanThou/raw/master/Presentation/Solution-02.png)
 
 ### Smart view data
 * Position
@@ -110,3 +112,9 @@ Challenges
 
 
 # Example
+
+![Position](https://github.com/wna-se/ArtierThanThou/raw/master/Presentation/presentation/Bild4.jpg)
+
+![Position](https://github.com/wna-se/ArtierThanThou/raw/master/Presentation/presentation/Bild5.jpg)
+
+
